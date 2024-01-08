@@ -5,9 +5,9 @@
 - 시간: 15:00 ~ 16:30 (1시간 30분)
 - 스터디원
   
-| Name | <center>[소승수](https://github.com/voidmelody)</center>| <center>[김주환](https://github.com/happyjamy)</center> | <center>[이경민](https://github.com/tidavid1)</center> | <center>[홍지인](https://github.com/JIN-076)</center> |
-| --- | --- | --- | --- | --- |
-| Profile | <img width="100px" src="https://github.com/voidmelody.png" /> | <img width="100px" src="https://github.com/happyjamy.png" /> | <img width="100px" src="https://github.com/tidavid1.png" /> | <img width="100px" src="https://github.com/JIN-076.png" /> |
+| Name | <center>[김주환](https://github.com/happyjamy)</center> | <center>[이경민](https://github.com/tidavid1)</center> | <center>[홍지인](https://github.com/JIN-076)</center> |
+ --- | --- | --- | --- |
+| Profile | <img width="100px" src="https://github.com/happyjamy.png" /> | <img width="100px" src="https://github.com/tidavid1.png" /> | <img width="100px" src="https://github.com/JIN-076.png" /> |
 
 
 ## 목표
